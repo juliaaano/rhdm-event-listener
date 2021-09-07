@@ -1,5 +1,8 @@
 # RHDM Event Listener
-[![Build Status](https://travis-ci.com/juliaaano/rhdm-event-listener.svg)](https://travis-ci.com/juliaaano/rhdm-event-listener)
+
+**This project is deprectated. Use project [RHPAM Event Listener](https://github.com/juliaaano/rhpam-event-listener) instead.**
+
+---
 
 Suitable for KIE Server deployments.
 
